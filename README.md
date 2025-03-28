@@ -19,13 +19,10 @@
 ```sh
 pip install numpy matplotlib
 ```
-3. Download or copy the script (`weave_generator.py`).
+3. Download or copy the script (`weave_pattern_generator.ipynb`).
 
 ## Usage
-Run the app:
-```sh
-python weave_generator.py
-```
+Run the app on jupyter notebook
 
 ## Controls
 | Widget | Functionality |
@@ -42,8 +39,5 @@ python weave_generator.py
    * *`0`* (White) = Warp thread **under** weft.
 * Borders are drawn using `matplotlib` grid lines.
 
-## License
-[Add your license information here]
 
-## Contributing
-[Add contribution guidelines here]
+
